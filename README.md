@@ -4,6 +4,3 @@ Recipe application that pulls information down from Spoonacular and alows users 
 
 Spoonacular provides ingrediants and directions. Users can add those ingrendents to a shopping list with multiple recipes at the same time.
 
-asfasdfasdf
-
-use react hooks
